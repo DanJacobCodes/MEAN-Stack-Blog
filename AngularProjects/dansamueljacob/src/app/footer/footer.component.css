@@ -1,0 +1,5 @@
+.footerLinks {
+	  display: inline-flex !important;
+  text-decoration: none !important;
+  color: white;
+}

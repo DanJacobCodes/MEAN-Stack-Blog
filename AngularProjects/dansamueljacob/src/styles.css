@@ -1,1 +1,27 @@
 /* You can add global styles to this file, and also import other style files */
+body {
+	background-color: white !important;
+	  height: 100%;
+
+}
+
+.nav>li {
+  display: inline-flex !important;
+  text-decoration: none !important;
+  color: white;
+} 
+
+.nav {
+	height: 25%;
+}
+
+#title {
+	color: black !important;
+}
+
+#footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+
+}
