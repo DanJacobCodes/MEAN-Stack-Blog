@@ -1,5 +1,9 @@
-.footerLinks {
-	  display: inline-flex !important;
-  text-decoration: none !important;
-  color: white;
+.fa {
+	display: inline-block;
+	text-align: center;
+	vertical-align: middle;
+}
+
+#footerName {
+	text-align: center;
 }
